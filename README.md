@@ -69,5 +69,3 @@ npm start
 * Batched requests with enforced 1-second delay
 * Added MD5 request signature and timestamp headers
 * Implemented retry handling for failures
-
-```
